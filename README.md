@@ -1,17 +1,17 @@
 # longrich_app
 Longrich Business web application.
 
-Description: A classical based Object oriented web application where users can register an account, make public post, use a shopping cart, 
+Description: A classical based Object oriented web application with a User Interface (UI), where users can register an account, make public post, use a shopping cart, 
 share their referral link and earn more commision when other users register through that referral. 
 
 PROJECT BUILT WITH:
 
- • Vanilla JavaScript(ES6),
- • JQuery,
- • CSS3,
- • Php 7+,
- • HTML5,
- • Database Management System: MySQL,
+ • Vanilla JavaScript(ES6)<br />
+ • JQuery <br />
+ • CSS3 <br />
+ • Php 7+ <br />
+ • HTML5 <br />
+ • Database Management System: MySQL <br />
  • PHPMailer
 
 FEATURES OF APPLICATION:
