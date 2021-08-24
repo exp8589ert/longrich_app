@@ -9,7 +9,7 @@ PROJECT BUILT WITH:
  • Vanilla JavaScript(ES6)<br />
  • JQuery <br />
  • CSS3 <br />
- • Php <br />
+ • PHP 5.0, 6.0 and 7.0 <br />
  • HTML5 <br />
  • Database Management System: MySQL <br />
  • PHPMailer (~6.1)
