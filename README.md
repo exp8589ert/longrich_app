@@ -28,7 +28,14 @@ FEATURES OF APPLICATION:
 
 HOW TO USE: 
 
-  Just upload files on your server. File structure must be the same as shown. ![File_structure_1](https://user-images.githubusercontent.com/18294817/130697872-18422d29-be66-4b15-8ce5-dca39251ef25.png)
+  Just upload files on your server. File structure must be the same as shown. 
+
+ FILE STRUCTURE_1
+ 
+ ![File_structure_1](https://user-images.githubusercontent.com/18294817/130697872-18422d29-be66-4b15-8ce5-dca39251ef25.png)
+
+ FILE STRUCTURE_2
+
  ![File_structure_2](https://user-images.githubusercontent.com/18294817/130697880-009a1dd5-9401-4d5a-9a85-11aef59762dd.png)
 
 
