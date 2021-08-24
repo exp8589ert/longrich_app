@@ -12,7 +12,7 @@
 	$mail->SMTPDebug = 0;   
 	$mail->SMTPAuth = true;  
 	$mail->Username = 'grandhustle19@gmail.com';   
-	$mail->Password = 'ubabillion8589wddpagg'; 
+	$mail->Password = 'xxxxxxxxx'; 
 	$mail->Priority = 1;        
 	$mail->WordWrap = 40;                   
 	$mail->FromName = 'Longrich Gtriune';
