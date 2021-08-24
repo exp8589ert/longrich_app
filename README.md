@@ -44,7 +44,7 @@ The sql query file is stored in /database folder with .sql file extension.
   
 CONTACT:
  Facebook: https://www.facebook.com/anusionwu.chikeluba/
-
+ Project Link: https://github.com/exp8589ert/longrich_app
 
   
 ========================== END  ==========================
