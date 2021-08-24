@@ -1,0 +1,7 @@
+RewriteEngine On
+AuthType Basic
+AuthName "Admin Authorized"
+#AuthUserFile /host/public_html/class/
+AuthUserFile /longrichs.com/class/.htpasswd
+require valid-user
+
