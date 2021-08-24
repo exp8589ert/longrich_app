@@ -29,3 +29,9 @@ FEATURES OF APPLICATION:
 HOW TO USE: 
 
   Just upload files on your server. File structure must be the same as shown. 
+  
+  
+  The sql query file is stored in database folder with file an .sql file extension.
+  
+  
+  ========================== END  ==========================
