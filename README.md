@@ -12,7 +12,7 @@ PROJECT BUILT WITH:
  • Php 7+ <br />
  • HTML5 <br />
  • Database Management System: MySQL <br />
- • PHPMailer
+ • PHPMailer (~6.1)
 
 FEATURES OF APPLICATION:
 
