@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlsetxmlns="https://www.longrichs.com/sitemap">
+<url>
+
+<loc>https://www.longrichs.com/</loc>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://www.longrichs.com/index</loc>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.longrichs.com/benefits</loc>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+
+</urlset>

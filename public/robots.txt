@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /404/
+Disallow: /class/
+Disallow: /includes/
+Disallow: /pstatus.php
+Sitemap: https://www.longrichs.com/sitemap.xml
