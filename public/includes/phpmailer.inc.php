@@ -11,7 +11,7 @@
 	$mail->isHTML(true);                     
 	$mail->SMTPDebug = 0;   
 	$mail->SMTPAuth = true;  
-	$mail->Username = 'grandhustle19@gmail.com';   
+	$mail->Username = 'youremailaddress';   
 	$mail->Password = 'xxxxxxxxx'; 
 	$mail->Priority = 1;        
 	$mail->WordWrap = 40;                   
