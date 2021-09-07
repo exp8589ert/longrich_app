@@ -2,7 +2,7 @@
 Longrich Business web application.
 
 Description: A classical based Object oriented web application with a User Interface (UI), where users can register an account, make public post, use a shopping cart, 
-share their referral link and earn more commision when other users register through that referral. 
+share their referral link and earn more commision when other users register through that referral link. 
 
 PROJECT BUILT WITH:
 
