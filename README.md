@@ -43,7 +43,7 @@ HOW TO USE:
 The sql query file is stored in /database folder with .sql file extension.
   
 CONTACT: <br />
- Facebook: https://www.facebook.com/anusionwu.chikeluba/ <br />
+ Video of Project (Facebook): https://www.facebook.com/100000367957062/videos/3889425284502180/ <br />
  Project Link: https://github.com/exp8589ert/longrich_app
 
   
